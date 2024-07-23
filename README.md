@@ -5,3 +5,4 @@ my pdf viewer
 
 - pymupdf
 - transformers
+- nltk
